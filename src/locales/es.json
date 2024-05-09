@@ -1,0 +1,22 @@
+{
+  "hero-section-phrase": "« HIGN promueve la atención médica equitativa para los adultos mayores al educar a la fuerza laboral y a los futuros profesionales, informar las políticas, promover la investigación y brindar programas comunitarios. »",
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "content-1": "Lo sentimos, la ruta",
+    "content-2": "no se encontró.",
+    "button-text": "Retornar a Home"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Bienvenido a HIGN",
+    "title2": "Análisis del examen del estado mental",
+    "subtitle1": "Análisis de puntuación\"\n"
+  },
+  "Examiner":{
+    "title" : "Descripción general del rendimiento del examinador",
+    "paragraph": "Rendimiento en el examen del estado mental",
+    "paragraph2": "Recuento del examen del estado mental asignado actualmente:",
+    "paragraph3": "Puntuación total promedio asignada en el examen del estado mental:"
+  }
+
+}
